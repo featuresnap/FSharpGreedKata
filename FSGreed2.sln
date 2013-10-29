@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSGreed2", "FSGreed2\FSGreed2.fsproj", "{6BF465D2-C816-4690-A94D-F401CDA5BC31}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GreedTests", "GreedTests\GreedTests.fsproj", "{3104490F-3A64-445B-9EF1-EE62A1AABC68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF465D2-C816-4690-A94D-F401CDA5BC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF465D2-C816-4690-A94D-F401CDA5BC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF465D2-C816-4690-A94D-F401CDA5BC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF465D2-C816-4690-A94D-F401CDA5BC31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3104490F-3A64-445B-9EF1-EE62A1AABC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3104490F-3A64-445B-9EF1-EE62A1AABC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3104490F-3A64-445B-9EF1-EE62A1AABC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3104490F-3A64-445B-9EF1-EE62A1AABC68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
